@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="content">
+  <h2>Writings</h2>
+  <p>
+    Stuff I'm thinking about or want to explain. Sometimes incomplete, sometimes
+    not. Open to discussing.
+  </p>
+  <ul class="articlesList">
+    {{ range .Pages.ByPublishDate.Reverse }}
+    <li class="articleLink">
+      <a href="{{ .Permalink }}">
+        {{ .Date.Format "January, 2006" }} - {{ .Title }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

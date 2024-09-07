@@ -1,0 +1,87 @@
+body {
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0em;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f0e1;
+  background-attachment: fixed;
+  color: #444546;
+}
+header {
+  padding: 15px;
+  margin-bottom: 40px;
+  color: black;
+}
+.content-box {
+  background-color: #faf6e9;
+  border: 1px solid #6a90b4;
+  padding: 20px;
+  margin-bottom: 20px;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-weight: 550;
+}
+h2 {
+  font-weight: 500;
+}
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+nav {
+  text-align: center;
+  margin-bottom: 10px;
+}
+nav a {
+  color: #c8526a; /* Lighter shade of red */
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 1.2em;
+}
+.content {
+  min-height: 300px;
+}
+p {
+  margin-bottom: 1em;
+}
+
+h1 a {
+  text-decoration: none; /* Remove underline */
+}
+
+/* General link styles */
+a {
+  color: inherit; /* Inherit color from parent */
+  text-decoration: none; /* Remove underline */
+  border-radius: 3px; /* Optional: Add rounded corners for a softer look */
+  display: inline-block; /* Ensure the element behaves like a block for scaling */
+  transition: transform 0.3s; /* Smooth transition for scaling effect */
+}
+
+/* Hover effect */
+a:hover {
+  transform: scale(1.05); /* Scale the element to 105% of its original size */
+}
+
+.articleTitle {
+  text-align: left;
+  color: #444546;
+}
+
+/* Remove bullet points and clean up list styling */
+.articlesList {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+  margin: 0;
+  color: #c8526a; /* Lighter shade of red */
+}
+
+.articleLink {
+  margin-bottom: 10px;
+}

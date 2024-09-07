@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Makonnen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Makonnen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>SimpleTex - A language built with scala on top of LaTex with simpler syntax leaning towards a markdown-like syntax. Supported embedding LaTex for more advanced text formatting whilst coming out of the box supporting many general features used students writing in markdown day to day. Never completed, but made some decent progress during the covid times.</description>
+    </item>
+    <item>
+      <title>Reflections from this year</title>
+      <link>http://localhost:1313/writings/2023reflections/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/2023reflections/</guid>
+      <description>The Highlights Reel This year&amp;rsquo;s been quite the ride, kicking off with a new bundle of joy in the family (sorry Sari, your nickname suggestion didn&amp;rsquo;t make the cut), followed by a lively baptism celebration. My sisters and old Alexandria buddies made their way to NYC, and the uni crew stuck to our annual hangout tradition. Oh, and I finally set foot in Europe for an ACM Security conference in Copenhagen - cold but fun!</description>
+    </item>
+    <item>
+      <title>Sardine in outer space</title>
+      <link>http://localhost:1313/writings/sardine/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/sardine/</guid>
+      <description>I always bring up this comic book to my sister since she can’t for the life of her, remember reading it. Although we read it all the time since it was one of the few colored comic books our library had more than a decade ago.&#xA;I honestly just remember a few things:&#xA;Goofy and whimsical main character, outwits all her enemies Strange pirate crew. They were all weird. But fun.</description>
+    </item>
+  </channel>
+</rss>
