@@ -6,8 +6,15 @@
     <description>Recent content in Writings on Makonnen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://makonnen.sh/writings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Binary Bomb Lab</title>
+      <link>http://makonnen.sh/writings/binarybomb/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://makonnen.sh/writings/binarybomb/</guid>
+      <description>I don’t usually get all hyped up about educational exercises, but the Binary Bomb Assignment is a standout. It’s not your typical assignment; it’s like a puzzle where you get this compiled binary file—aka the “bomb”—and you’ve got to disassemble and debug it to make it go away. The bomb comes in phases, each with its own challenge related to assembly language, like stack operations or register manipulations. It’s hands-on and actually makes learning about how high-level code turns into machine instructions pretty engaging.</description>
+    </item>
     <item>
       <title>Reflections from this year</title>
       <link>http://makonnen.sh/writings/2023reflections/</link>

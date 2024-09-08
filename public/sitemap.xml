@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://makonnen.sh/writings/binarybomb/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://makonnen.sh/writings/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://makonnen.sh/projects/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://makonnen.sh/writings/2023reflections/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://makonnen.sh/writings/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://makonnen.sh/writings/sardine/</loc>
